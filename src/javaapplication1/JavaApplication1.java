@@ -21,6 +21,9 @@ public class JavaApplication1 {
 
         System.out.println("Enter a word: ");
         String word = scanner.nextLine();
+        
+        System.out.println("Enter a word: ");
+        String words = scanner.nextLine();
 
         System.out.println("Length of a word: "+word.length());
         // Create an array to store characters
